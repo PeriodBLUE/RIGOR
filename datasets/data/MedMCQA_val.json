@@ -1,0 +1,202 @@
+[
+  {
+    "query": "Types of pocket respectively:\n\nChoose the correct answer from the following options:\n(A) Simple pocket, compound pocket, complex pocket.\n(B) Simple pocket, complex pocket, compound pocket.\n(C) Compound pocket, simple pocket, complex pocket.\n(D) Simple pocket, compound pocket, tertiary pocket.",
+    "gt": "The correct answer is: (A) Simple pocket, compound pocket, complex pocket.",
+    "tag": [
+      "medical",
+      "Dental",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Edge angle is the angle between:\n\nChoose the correct answer from the following options:\n(A) Rake face and radial line.\n(B) Rake face and clearance face.\n(C) Clearance face and tooth structure.\n(D) Radial line and clearance face",
+    "gt": "The correct answer is: (B) Rake face and clearance face.",
+    "tag": [
+      "medical",
+      "Dental",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Palatoglossus develops from:\n\nChoose the correct answer from the following options:\n(A) Occipital myotomes\n(B) Lingual swelling of first arch\n(C) Third arch\n(D) Mesoderm of sixth arch",
+    "gt": "The correct answer is: (D) Mesoderm of sixth arch",
+    "tag": [
+      "medical",
+      "Anatomy",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Which of these is the most reliable method for monitoring fluid resuscitation?\n\nChoose the correct answer from the following options:\n(A) Urine output\n(B) CVP\n(C) Pulse rate\n(D) Blood pressure",
+    "gt": "The correct answer is: (A) Urine output",
+    "tag": [
+      "medical",
+      "Surgery",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Periodontosis manifests itself mainly in:\n\nChoose the correct answer from the following options:\n(A) Molars\n(B) Upper incisors\n(C) Molars and incisors\n(D) Premolars",
+    "gt": "The correct answer is: (C) Molars and incisors",
+    "tag": [
+      "medical",
+      "Dental",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Which of the following Is not an etiological agent for gingival recession\n\nChoose the correct answer from the following options:\n(A) Gingival abrasion\n(B) Gingival ablation\n(C) Gingival inflammation\n(D) TFO",
+    "gt": "The correct answer is: (D) TFO",
+    "tag": [
+      "medical",
+      "Dental",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "During post preparation in distal canal of mandibular first molar, maximum chance of perforation is seen in:\n\nChoose the correct answer from the following options:\n(A) Lingual surface\n(B) Distal surface\n(C) Buccal surface\n(D) Mesial surface",
+    "gt": "The correct answer is: (D) Mesial surface",
+    "tag": [
+      "medical",
+      "Dental",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Most common mediastinal tumor:\n\nChoose the correct answer from the following options:\n(A) Neurogenic tumor\n(B) Thymoma\n(C) Lymphoma\n(D) Bronchogenic cyst",
+    "gt": "The correct answer is: (A) Neurogenic tumor",
+    "tag": [
+      "medical",
+      "Surgery",
+      "AIIMS 2019"
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Which vitamin is required for glycogen Phosphorylase?\n\nChoose the correct answer from the following options:\n(A) PLP\n(B) TPP\n(C) Riboflavin\n(D) Lipoic acid",
+    "gt": "The correct answer is: (A) PLP",
+    "tag": [
+      "medical",
+      "Biochemistry",
+      "AIIMS 2017"
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Mode is\n\nChoose the correct answer from the following options:\n(A) Value that most frequently occurs in a set of observation\n(B) When observations are arranged in ascending or descending order the value that comes in the centre\n(C) Calculated by adding up the values of a group of items and dividing the sum by the number of items\n(D) Best measure for central tendency in a highly scented distribution",
+    "gt": "The correct answer is: (A) Value that most frequently occurs in a set of observation",
+    "tag": [
+      "medical",
+      "Dental",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "4th generation apex locators are based on?\n\nChoose the correct answer from the following options:\n(A) Frequency based\n(B) Impedence based\n(C) Multiple frequency ratio based\n(D) Resistance based",
+    "gt": "The correct answer is: (C) Multiple frequency ratio based",
+    "tag": [
+      "medical",
+      "Dental",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "In plasmodium vivax malaria, relapse is caused by:September 2012\n\nChoose the correct answer from the following options:\n(A) Sporozoite\n(B) Schizont\n(C) Hypnozoite\n(D) Gamteocyte",
+    "gt": "The correct answer is: (C) Hypnozoite",
+    "tag": [
+      "medical",
+      "Medicine",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Lidocaine produces its antiarrhythmic effects by\n\nChoose the correct answer from the following options:\n(A) Increasing A-V conduction\n(B) Decreasing cardiac excitability\n(C) Increasing cardiac conduction velocity\n(D) Increasing spontaneous pacemaker activity",
+    "gt": "The correct answer is: (B) Decreasing cardiac excitability",
+    "tag": [
+      "medical",
+      "Pharmacology",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "The type of strain develop when force is applied perpendicular to surface\n\nChoose the correct answer from the following options:\n(A) Compressive strain\n(B) Tensile strain\n(C) Shear stress\n(D) Tensile stress",
+    "gt": "The correct answer is: (A) Compressive strain",
+    "tag": [
+      "medical",
+      "Dental",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Gingiva is most commonly affected by deficiency of:\n\nChoose the correct answer from the following options:\n(A) Vitamin A\n(B) Vitamin D\n(C) Vitamin C\n(D) Vitamin B",
+    "gt": "The correct answer is: (C) Vitamin C",
+    "tag": [
+      "medical",
+      "Pathology",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Which one of the following is penicillinase resistant penicillin:\n\nChoose the correct answer from the following options:\n(A) Amoxycillin\n(B) Cloxacillin\n(C) Ampicillin\n(D) Penicillin G",
+    "gt": "The correct answer is: (B) Cloxacillin",
+    "tag": [
+      "medical",
+      "Pharmacology",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Ratio of mesiodistal width to height of crown of maxillary canine\n\nChoose the correct answer from the following options:\n(A) 8:10\n(B) 10:08\n(C) 6:08\n(D) 8:06",
+    "gt": "The correct answer is: (A) 8:10",
+    "tag": [
+      "medical",
+      "Dental",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Which tooth is known as enigma to endodontist\n\nChoose the correct answer from the following options:\n(A) Mandibular canine\n(B) Maxillary 1st premolar\n(C) Mandibular 2nd premolar\n(D) Mandibular 1st premolar",
+    "gt": "The correct answer is: (D) Mandibular 1st premolar",
+    "tag": [
+      "medical",
+      "Dental",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "What should be the ideal temperature in delivery room for the neonates to be kept in warmer?\n\nChoose the correct answer from the following options:\n(A) 22-26degC\n(B) 28-30degC\n(C) 30-35degC\n(D) 37degC",
+    "gt": "The correct answer is: (A) 22-26degC",
+    "tag": [
+      "medical",
+      "Pediatrics",
+      null
+    ],
+    "source": "MedMCQA"
+  },
+  {
+    "query": "Streptococci have the ability to adhere to the tooth surfaces and contribute to caries development as they?\n\nChoose the correct answer from the following options:\n(A) Are penicillinase resistant\n(B) Produce acid during metabolism\n(C) Produce extracellular polysachharides\n(D) Ferment carbohydrates",
+    "gt": "The correct answer is: (C) Produce extracellular polysachharides",
+    "tag": [
+      "medical",
+      "Pathology",
+      null
+    ],
+    "source": "MedMCQA"
+  }
+]

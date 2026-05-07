@@ -1,0 +1,42 @@
+{
+  "gpt-4o-mini": {
+    "model_list": [
+      {
+        "model_name": "gpt-4o-mini",
+        "model_url": "https://api.openai.com/v1",
+        "api_key": "${OPENAI_API_KEY}"
+      }
+    ],
+    "max_workers_per_model": 8
+  },
+  "deepseek-chat": {
+    "model_list": [
+      {
+        "model_name": "deepseek-chat",
+        "model_url": "https://api.deepseek.com",
+        "api_key": "${DEEPSEEK_API_KEY}"
+      }
+    ],
+    "max_workers_per_model": 8
+  },
+  "local-openai-compatible": {
+    "model_list": [
+      {
+        "model_name": "local-openai-compatible",
+        "model_url": "http://127.0.0.1:8000/v1",
+        "api_key": "EMPTY"
+      }
+    ],
+    "max_workers_per_model": 4
+  },
+  "xverify-9b-c": {
+    "model_list": [
+      {
+        "model_name": "xverify-9b-c",
+        "model_url": "http://127.0.0.1:8001/v1",
+        "api_key": "EMPTY"
+      }
+    ],
+    "max_workers_per_model": 4
+  }
+}

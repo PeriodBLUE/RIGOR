@@ -1,0 +1,12 @@
+{
+  "your-model-alias": {
+    "model_list": [
+      {
+        "model_name": "provider-model-name",
+        "model_url": "https://your-openai-compatible-endpoint/v1",
+        "api_key": "${YOUR_API_KEY_ENV}"
+      }
+    ],
+    "max_workers_per_model": 4
+  }
+}
